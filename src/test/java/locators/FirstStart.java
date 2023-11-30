@@ -2,10 +2,7 @@ package locators;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
-
-import javax.swing.*;
 
 public class FirstStart {
 
